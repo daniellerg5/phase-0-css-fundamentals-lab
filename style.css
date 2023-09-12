@@ -3,3 +3,76 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{text-align:center;}
+
+img{display:block;margin-left:auto;margin-right:auto;}
+
+nav{ text-align: center;
+}
+
+nav a {  padding: 0 10px;
+  background:gray;
+margin:0 auto;}
+
+figcaption{
+  text-align: center;
+  font-size: small;
+}
+
+#featured-property p{
+  width:800px;
+  text-align: center;
+  margin:8px auto;
+}
+
+#details div{
+  float:left;
+  background-color: red;
+  text-align: center;
+  width:25%;
+}
+
+ /* #main-header {
+  text-align:center;
+}
+
+#table {
+  text-align: center;
+  padding: 10px;
+  background:gray;
+}
+
+#featured-property{
+  text-align: center;
+}
+
+#latin{
+  width: 800px;
+  text-align: center;
+}
+
+
+#contact{
+  float:left;
+  background-color: red;
+}
+
+#correspondence{
+  float:left;
+  background-color: red;
+}
+
+#links{
+  float:left;
+  background-color: red;
+}
+
+#follow{
+  float:left;
+  background-color: red;
+}
+
+#details{
+  text-align: center;
+} */
